@@ -99,9 +99,9 @@ const Projects = () => {
 
   
 
-    const data = [{ description:"Brainwave is an AI Chatbot Integration service landing page . Equiped with modern UI and UX elevating customer experience. Built with React , Node , Tailwind.", title:"Brainwave",siteLink:"https://brainwave3.onrender.com",video:'public\\Videos\\weglotlikemagic-43.webm'},
-      { description:"Obys Agency clone from awards.com . It’s a landingpage for providing digital web experience service. Tech used - HTML , CSS , JS , GSAP , Locomotive.js , Scroll Trigger", title:"Gypsy",siteLink:"https://gypsy.onrender.com",video:"public\\Videos\\ttr-43.webm"},
-      {description:"A portfolio website showcasing candidate’s intro , work , projects. Tech used - React , Tailwind-CSS , Locomotive.js , Framer Motion", title:"Zeni",siteLink:"https://zeni2.onrender.com/",video:"public\\Videos\\botify-43.webm"}]
+    const data = [{ description:"Brainwave is an AI Chatbot Integration service landing page . Equiped with modern UI and UX elevating customer experience. Built with React , Node , Tailwind.", title:"Brainwave",siteLink:"https://brainwave3.onrender.com",video:'Videos\\weglotlikemagic-43.webm'},
+      { description:"Obys Agency clone from awards.com . It’s a landingpage for providing digital web experience service. Tech used - HTML , CSS , JS , GSAP , Locomotive.js , Scroll Trigger", title:"Gypsy",siteLink:"https://gypsy.onrender.com",video:"Videos\\ttr-43.webm"},
+      {description:"A portfolio website showcasing candidate’s intro , work , projects. Tech used - React , Tailwind-CSS , Locomotive.js , Framer Motion", title:"Zeni",siteLink:"https://zeni2.onrender.com/",video:"Videos\\botify-43.webm"}]
 
 
 
