@@ -38,9 +38,7 @@ const App = () => {
   
   return (
     <div  className=" bg-zinc-900 h-screen w-screen ">
-      {loading ? (
-        <Loader />
-      ) : (
+
         <Routes>
         <Route path="/" element={<Home/>}></Route>
         <Route path="/menu" element={<Menu/>}></Route>
@@ -48,7 +46,6 @@ const App = () => {
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
       </Routes>
-      )}
 
       {/* <Admin/> */}
       {/* <Projects/> */}
